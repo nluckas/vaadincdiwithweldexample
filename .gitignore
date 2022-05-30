@@ -1,0 +1,10 @@
+/frontend
+/node_modules
+/target
+nb-configuration.xml
+package.json
+package-lock.json
+tsconfig.json
+types.d.ts
+webpack.config.js
+webpack.generated.js
